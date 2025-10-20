@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0%2B-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 A sophisticated deep learning project that combines BERT-based transformers with optimized architectures (including LMU - Legendre Memory Units) for accurate emotion detection from text.
 
